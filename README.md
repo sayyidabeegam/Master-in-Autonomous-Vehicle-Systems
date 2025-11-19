@@ -2,7 +2,6 @@
 Roadmap for mastering autonomous vehicle systems
 
 ## Core Foundations
-### **Topics to cover**
 
 1. **Robotics Mathematics**: Linear algebra, calculus, transformations, geometry
 2. **Probability & Statistics**: Uncertainty modeling, distributions, Bayesian thinking
@@ -31,9 +30,9 @@ Roadmap for mastering autonomous vehicle systems
 
 
 ## Localization & Mapping
-1. SLAM: LiDAR SLAM, Visual SLAM, RGB-D SLAM
-2. Odometry: Wheel, visual-inertial odometry
-3. Mapping: HD map creation, map interpretation, semantic maps
+1. **SLAM**: LiDAR SLAM, Visual SLAM, RGB-D SLAM
+2. **Odometry**: Wheel, visual-inertial odometry
+3. **Mapping**: HD map creation, map interpretation, semantic maps
    
 ## Planning & Decision Making
 1. Motion planning algorithms: A*, D*, RRT, lattice planners
@@ -41,6 +40,6 @@ Roadmap for mastering autonomous vehicle systems
 3. Trajectory generation, smoothing, and optimization
 
 ## Systems & Software/Middleware
-1. ROS / ROS2: nodes, topics, actions, services, launch files
-2. Simulation: Omniverse, Gazebo
-3. Visualiztion tools : RViz / RViz2 
+1. **ROS / ROS2**: nodes, topics, actions, services, launch files
+2. **Simulation**: Omniverse, Gazebo
+3. **Visualiztion tools** : RViz / RViz2 
